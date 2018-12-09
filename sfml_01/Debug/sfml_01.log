@@ -1,0 +1,18 @@
+﻿  main_menu.cpp
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_menu.cpp(14): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_menu.cpp(18): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_menu.cpp(22): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_menu.cpp(60): error C4996: 'sf::Text::setColor': was declared deprecated
+  c:\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_menu.cpp(61): error C4996: 'sf::Text::setColor': was declared deprecated
+  c:\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_menu.cpp(65): error C4996: 'sf::Text::setColor': was declared deprecated
+  c:\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_menu.cpp(68): error C4996: 'sf::Text::setColor': was declared deprecated
+  c:\sfml-2.5.1\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+  main_game.cpp
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\main_game.cpp(13): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  ball.cpp
+c:\users\badri\documents\visual studio 2015\projects\sfml_01\sfml_01\ball.cpp(95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  ai_paddle.cpp
+  Generating Code...
